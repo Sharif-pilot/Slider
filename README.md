@@ -1,2 +1,2 @@
 # Slider
- Android material design slider sample project
+ android material design slider smaple project
